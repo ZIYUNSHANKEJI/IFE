@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>斌斌学院任务一</title>
+   </head>
+<body>
+  
+    <label>请输入北京今天空气质量：<input id="input" type="text"></label>
+    <button id="button" onClick="showtext()" >确认填写</button>
+     <div>你输入的值是：<span id="display">尚无录入</span></div>
+  <script type="text/javascript">
+function showtext()
+  {
+	
+	 if(confirm("确认不需要修改了吗？"))
+	  
+       { var mystr = document.getElementById("input");
+         var mystr1 = document.getElementById("display");
+         mystr1.innerHTML=mystr.value;    
+            
+	   }
+  }
+ 
+</script>
+
+
+</body>
+</html>
