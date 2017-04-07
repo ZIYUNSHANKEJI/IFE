@@ -1,0 +1,350 @@
+.div0{width:980px;
+      height:1386px;
+	  margin:0 auto;
+	  padding:0 44px;
+	  }
+/*下面是标题栏区域css*/
+.biaotilan{width:892px;
+           height:61px;
+		   margin:0px;
+		   padding:0px;
+		   border-bottom:2px solid #938e8c;
+		  
+           }
+.ife{width:110px;
+     height:61px;
+	 margin:0px;
+	 padding:0px;
+	 background-color:red;
+	 font-size:12px;
+	 font-family:黑体;
+	 color:#ffffff;
+	 text-align:center;
+	 float:left;
+	}
+.shijian{float:right;
+         color:#d45d5c;
+		 font-size:12px;
+		 font-family:黑体;
+		 vertical-align:bottom;
+        }
+/*上面是标题栏区域css*/
+.part1{width:892px;
+       height:auto;
+	   padding:0;
+	   margin:0;
+      }
+/*下面是上左区域css*/
+.div1{width:641px;
+      padding:0px;
+	  margin:30px 0 0 0;
+	  height:auto;
+	  float:left;
+     }
+.bigimage{width:641px;
+          height:301px;
+		  padding:0px;
+		  margin:0 0 40px 0;
+		  background-image:url(image/bigimage.jpg);
+         }
+.tuceng1{width:191px;
+         height:301px;
+		 padding:0px;
+		 margin:0px;
+		 background-color:#3C6;
+	     -webkit-filter:opacity(50%);
+		 float:left;
+         }
+.tuceng2{width:191px;
+         height:301px;
+		 padding:0px;
+		 margin:0px;
+		 background-color:#F69;
+		 -webkit-filter:opacity(50%);
+		 float:right;
+         }
+.what{float:left;
+      margin-right:30px;
+	  width:30%;
+	  padding:0px;
+     }
+.when{float:left;
+      margin-right:30px;
+	  width:30%;
+	  padding:0px;
+     }
+.how{float:left;
+     width:30%;
+	 padding:0px;
+    }
+.ziti-style{font-size:16px;
+            font-weight:bold;
+			text-decoration:underline;
+           }
+#what{color:green;}
+#when{color:#d2994f;}
+#how{color:#cc7680;}
+.duanluo{font-size:12px;
+         font-family:微软雅黑;
+		 line-height:16px;
+		 -webkit-filter:opacity(70%);
+        }
+.shuzi{color:#F00;
+       font-style:italic;
+      }
+/*上面是上左区域css*/
+
+/*下面是上右区域css*/
+.div2{width:203px;
+      height:auto;
+      padding:0px;
+	  margin:30px 0 0 48px;
+	  border-top:2px solid #cc8091;
+	  float:left;
+     }
+.about{font-size:24px;
+       font-family:微软雅黑;
+	   color:#000000;
+	   text-decoration:underline;
+	   line-height:40px;
+	   padding:0px;
+	   margin:0px;
+	   }
+.biaozhu1{font-size:12px;
+          color:#676767;
+		  font-family:楷体;
+		  line-height:10px;
+		  padding:0px;
+		  margin:0px;
+		 }
+._700style{font-size:116px;
+          color:#75b86b;
+	      font-family:微软雅黑;
+	      text-decoration:underline;
+	      font-style:italic;
+		  padding:0;
+		  margin:0;
+         }
+._32style{font-size:55px;
+         color:#cc8091;
+	     font-family:微软雅黑;
+	     float:left;
+        }
+._32you{float:left;
+        padding:0;
+		margin:0;
+		line-height:10px;
+       }
+.biaozhu2{font-size:21px;
+          color:#cc8091;
+		  font-family:微软雅黑;
+         }
+.biaozhu3{font-size:12px;
+          color:#231815;
+		  font-family:微软雅黑;
+		  -webkit-filter:opacity(70%);
+         }
+     
+/*上面是上右区域css*/
+.part2{width:883px;
+       height:auto;
+	   padding:0;
+	   margin:60px 0 0 0;
+       border-bottom:2px #938e8c solid;
+	   overflow:auto;
+      }
+/*以下是下左区域css*/
+
+.div3{width:415px;
+      height:auto;
+	  float:left;
+      padding:0;
+	  margin:50px 0 0 0;
+	 
+	 }
+.midleft{width:415px;
+         padding:0;
+		 margin:0;
+		 border-bottom:2px #11456b solid;
+		 
+	    }
+._the{font-size:72px;
+      color:#f5e327;
+	  font-family:黑体;
+	  font-style:italic;
+	  font-weight:bold;
+     }
+._theright{font-size:42px;
+           color:#11456b;
+		   font-family:黑体;
+		   font-weight:bold;
+		   line-height:16px;
+          }
+._thebottom{padding:0px;
+            margin:0px;
+	        font-size:33px;
+            color:#11456b;
+			font-family:黑体;
+			font-weight:bold;
+			line-height:50px;
+           }
+
+.qian{font-size:70px;
+      color:#f5e327;
+	  font-family:微软雅黑;
+	  float:left;
+	  width:75px;
+	  height:75px;
+	  line-height:75px;
+	  padding-top:15px;
+	 }
+.duoluo1{width:415px;
+	     font-size:12px;
+         color:#767777;
+		 font-family:宋体;
+		 line-height:16px;
+		 padding-top:15px;
+		 }
+.smallimage{float:right;
+            padding-right:10px;
+			padding-top:16px;
+			padding-left:10px;
+			 }
+
+
+/*以上是下坐区域css*/
+
+/*以下是下右区域css*/
+.div4{width:458px;
+      height:400px;
+	  padding:0;
+	  margin:50px 0 0 10px;
+	  float:left;
+	
+     }
+.midimage{width:458px;
+          height:61px;
+		  padding:214px 0 0 0;
+		  margin:0;
+		  background-image:url(image/buxaingyuanhua.jpg)
+		  
+         }
+.midimagebottombg{width:458px;
+                height:45px;
+				padding:8px 0;
+				margin:0;
+				background-color:#000;
+				-webkit-filter:opacity(70%);
+               }
+.midimagebottomdiv{width:auto;
+                   height:44px;
+				   padding:0 0 0 10px;
+				   margin:0 0 0 30px;
+				   border-left:3px solid #72b16a;
+                  }
+.midimageziti{font-size:26px;
+              font-family:微软雅黑;
+			  color:#ffffff;
+             }
+.midimagezitiyou{font-size:12px;
+                 font-family:微软雅黑;
+				 font-style:italic;
+				 color:#72b16a;
+				 letter-spacing:140%;
+                }
+.bottomright{
+	         width:458px;
+             height:322px;
+			 padding:0;
+			 margin:30px 0 0 0;
+			 background-color:#FCF;
+			
+            }
+.bottomrightqianduan{font-size:16px;
+                     color:#5a5b5b;
+					 font-family:宋体;
+					 line-height:20px;
+					 text-align:left;
+                     }
+.bottomrightqianduanyou{font-size:12px;
+                        color:#5a5b5b;
+						font-family:宋体;
+						font-style:italic;
+						text-align:right;
+						line-height:20px;
+                       }
+.hongfangkuai{width:260px;
+              height:160px;
+			  padding:0;
+			  margin:0;
+			  background-color:#C33;
+			  float:left;
+             }
+.ling{font-size:110px;
+      color:#ffffff;
+	  font-family:微软雅黑;
+	  padding:0;
+	  margin:0 0 0 10px;
+	  float:left;
+	 
+	 
+	  
+     }
+.lingyoukuangjia{ width:auto;
+		          height:110px;
+		          border-left:2px #ffffff solid;
+				  padding:0 0 0 10px;
+				  margin:25px 0;
+				  overflow:auto;
+				  float:left;
+		          
+                }
+.lingyou{font-size:21px;
+         color:#ffffff;
+		 font-family:黑体;
+		 font-style:italic;
+		 line-height:24px;
+		
+        }
+#lingyouxia{font-size:12px;
+            color:#ffffff;
+			font-family:黑体;
+			line-height:6px;
+            }
+.hongfangkuaiyou{
+				 width:170px;
+				 height:160px;
+				 padding:0;
+				 margin:20px 14px 0 14px;
+				 float:left;
+				 
+                }
+.hongfangkuaiyouziti{font-size:14px;
+                     color:#5a5b5b;
+				     font-family:黑体;
+				     font-style:italic;
+				     line-height:16px;
+                    }
+.douhao{font-size:72px;
+  color:#d45d5c;
+  font-family:黑体;
+  line-height:normal;
+  }
+.jiaobiao{font-size:12px;
+          color:#d45d5c;
+		  font-family:黑体;
+		  float:right;
+		  padding:0;
+		  margin:0 90px;
+         }
+
+      
+				 
+
+/*以上是下右区域css*/
+         
+
+	 
+	 
+  	 
+		   
