@@ -2,6 +2,7 @@
       height:1386px;
 	  margin:0 auto;
 	  padding:0 44px;
+	  overflow:hidden;
 	  }
 /*下面是标题栏区域css*/
 .biaotilan{width:892px;
@@ -52,7 +53,7 @@
 		 padding:0px;
 		 margin:0px;
 		 background-color:#3C6;
-	     -webkit-filter:opacity(50%);
+	         opacity:0.5;
 		 float:left;
          }
 .tuceng2{width:191px;
@@ -60,7 +61,7 @@
 		 padding:0px;
 		 margin:0px;
 		 background-color:#F69;
-		 -webkit-filter:opacity(50%);
+		 opacity:0.5;
 		 float:right;
          }
 .what{float:left;
@@ -234,7 +235,7 @@
 				padding:8px 0;
 				margin:0;
 				background-color:#000;
-				-webkit-filter:opacity(70%);
+				 opacity:0.5;
                }
 .midimagebottomdiv{width:auto;
                    height:44px;
