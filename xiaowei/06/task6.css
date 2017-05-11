@@ -152,7 +152,7 @@
 	   padding:0;
 	   margin:60px 0 0 0;
        border-bottom:2px #938e8c solid;
-	   overflow:auto;
+	   overflow:hidden;
       }
 /*以下是下左区域css*/
 
@@ -335,7 +335,7 @@
           color:#d45d5c;
 		  font-family:黑体;
 		  float:right;
-		  padding:0;
+		  padding:0 10px 0 0;
 		  margin:0 90px;
          }
 
